@@ -7,3 +7,5 @@ Model Training and Exploration: Decision Trees, Naive Bayes, Random Forest, Supp
 Evaluation: Confusion Matrix, Accuracy, Precision, Recall, F1-Score, and ROC Curve & Area Under the Curve (AUC).
 
 Hyper Parameter Optimization 
+
+#Python #Classification
